@@ -2,6 +2,8 @@
 data/
 *.csv
 *.zip
+# But don't ignore the README
+!data/README.md
 
 # 🧪 Ignore Python cache & notebook checkpoints
 __pycache__/
