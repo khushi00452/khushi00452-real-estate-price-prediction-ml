@@ -39,7 +39,7 @@ real-estate-price-prediction-ml/
    - sample_submission.csv  
   
 4. Open the notebook:  
-   `jupyter notebook notebook/house_price_prediction.ipynb`  
+  (https://github.com/khushi00452/real-estate-price-prediction-ml/blob/main/notebook/house-price-prediction%20(2).ipynb)`  
   
 ## 📊 ML Models Used  
 - Linear Regression  
