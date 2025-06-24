@@ -1,0 +1,18 @@
+# 📁 Ignore dataset files
+data/
+*.csv
+*.zip
+
+# 🧪 Ignore Python cache & notebook checkpoints
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# 🔒 Ignore environment files
+.env
+
+# 🚫 Ignore system files
+.DS_Store
+Thumbs.db
