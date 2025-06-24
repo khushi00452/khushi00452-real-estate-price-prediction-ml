@@ -1,10 +1,8 @@
-# 📁 Ignore dataset files
-data/
-*.csv
-*.zip
-# But don't ignore the README
-!data/README.md
 
+# Ignore all files inside data/
+data/*
+# But DON'T ignore README.md inside data/
+!data/README.md
 # 🧪 Ignore Python cache & notebook checkpoints
 __pycache__/
 *.pyc
